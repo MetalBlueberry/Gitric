@@ -41,7 +41,7 @@ Preguntó Enya
 
 - ¡No lo se! Han aparecido de la nada unos hombres armados y han empezado a irrumpir en las casas de la gente. He oído que están gritando tu nombre, parece que es a tí a quien están buscando. ¡Tenéis que salir de aquí!
 
-Enya vió a los hombres un par de casas mas abajo, justo detrás de la persona que llamaba a su puerta. Uno de ellos estaba hablando con otro mientras señalaba en su dirección. Enya se dio la vuelta y fué corriendo a su taller en busca de un objeto.
+Enya vió a los hombres un par de casas mas abajo, justo detrás de la persona que llamaba a su puerta. Uno de ellos estaba hablando con otro mientras señalaba en su dirección. Enya se dio la vuelta y volvió corriendo a su taller en busca de un objeto.
 
 - ¡Eh tu! ¿Que crees que estas haciendo?
 
@@ -56,4 +56,23 @@ Dijo el hombre que había alertado a Enya.
 
 Dijo uno de los soldados mientras le apartaba de un empujón.
 
-Enya parecía haber encontrado lo que buscaba, a simple vista parecía una de las piedras encantadas que venía a sus clientes para dar luz.
+Enya parecía haber encontrado lo que buscaba, a simple vista parecía una de las piedras encantadas que venía a sus clientes para dar luz. Enya murmuró unas palabras mientras pasaba su mano sobre la piedra. Al momento empezó a brillar.
+
+- ¡Myr!
+
+Gritó Enya
+
+- Pase lo que pase, no sueltes esto.
+
+Enya le entrego a Myr la piedra que brillaba con un color azúl intenso.
+
+- Ve a tu cuarto y escondete. Iré luego a buscarte.
+
+Asustado, Myr salió corriendo justo cuando los hombres entraban en el taller. Los hombres no parecían interesados en Myr y se dirigieron directamente hacia Enya.
+
+Myr siguió las instrucciones de su madre y se escondió en el armario de su cuarto. Podían escucharse golpes y gritos, pero era imposible saber si venían de la propia casa o del exterior. Seguramente de ambos sitios. Tras unos minutos, Myr escuchó subir a alguien por la escalera. tras unos segundos, entró en su habitación y empezó a registrarlo todo. Cuando abrió el armario, Myr se quedó totalmente paralizado por el miedo. Sin embargo, el hombre se fué sin hacerle nada. Tras registrar durante unos minutos, el hombre gritó.
+
+- Arriba no parece haber nada
+- Está bien, ya hemos requisado todos los objetos del taller. ¡Vámonos! tenemos que seguir antes de que se corra la voz.
+
+Myr seguía petrificado por el miedo y se quedó esperando a que su madre subiera a buscarle.
