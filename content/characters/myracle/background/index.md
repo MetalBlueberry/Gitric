@@ -1,9 +1,8 @@
 ---
 title: "Trasfondo de Myracle"
-tags: ["Myracle"]
 categories: ["Lore"]
 imgs: []
-cover: "monk-one.jpg"  # image show on top
+cover: "../myracle.png"  # image show on top
 readingTime: true  # show reading time after article date
 toc: true
 comments: false
@@ -13,6 +12,9 @@ license: ""  # CC License
 draft: false
 ---
 
+La vida de Myracle
+
+<!--more-->
 ## Infancia - de 0 a 8 años
 
 Myracle es hijo de una mujer llamada Enya Eadrom. Ambos vivían en una Aldea al sur del continente donde su madre se ganaba la vida vendiendo artilugios mágicos. Enya tiene el poder de **controlar la luz**, lo que le permite realizar encantamientos muy útiles para viajeros. Los mas comúnes siendo **dar brillo a objetos** que son capaces de dar emitir luz durante largos periodos de tiempo. También es capaz de fabricar lentes **curvan la luz** que pueden ser utilizadas para iniciar fuegos, fabricar lentes de visión o telescopios. Enya vende sus objetos en una tienda popular en el centro de la aldea y mucha gente viene de lugares cercanos para comprar diversos utensilios. Gracias a esto, se pueden permitir una vida sin preocupaciones por el dinero.

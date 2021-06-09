@@ -1,7 +1,6 @@
 +++
 title = "Day 1"
-tags = []
-categories = ["cat1"]
+categories = ["Diario"]
 imgs = []
 cover = ""  # image show on top
 readingTime = true  # show reading time after article date

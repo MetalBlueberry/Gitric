@@ -1,8 +1,8 @@
 ---
-title: Myracle - Hijo de la luz
+title: Personajes
 categories: []
-imgs: ["myracle.png"]
-cover: "myracle.png"  # image show on top
+imgs: []
+cover: ""  # image show on top
 readingTime: true  # show reading time after article date
 toc: true
 comments: false
@@ -11,5 +11,3 @@ single: false  # display as a single page, hide navigation on bottom, like as ab
 license: ""  # CC License
 draft: false
 ---
-
-![my](myracle.png#center)

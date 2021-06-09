@@ -51,14 +51,20 @@ inlineToolId = ""
 
 [params.nav]
 showCategories = true       # /categories/
-showTags = true             # /tags/
+showTags = false             # /tags/
 
 # custom navigation items
 
-# [[params.nav.custom]]
-# title = "About"
-# url = "/about"
+[[params.nav.custom]]
+title = "Personajes"
+url = "/characters"
 
 # [[params.nav.custom]]
 # title = "Hugo"
 # url = "https://gohugo.io/"
+
+[params.assets]
+css = ["css/custom.css"] 
+
+[taxonomies]
+    category = "categories"

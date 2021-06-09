@@ -1,0 +1,13 @@
+.article.markdown-body img[src$="#center"] {
+  display: block;
+  margin: 0.7rem auto;
+}
+.article.markdown-body img[src$="#floatleft"] {
+  float: left;
+  margin: 0.7rem;
+}
+
+.article.markdown-body img[src$="#floatright"] {
+  float: right;
+  margin: 0.7rem;
+}

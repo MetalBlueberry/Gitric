@@ -1,9 +1,8 @@
 ---
 title: "Myracle - Hoja de personaje"
-tags: ["Myracle"]
 categories: ["Hoja de personaje"]
 imgs: []
-cover: "myracle.png"  # image show on top
+cover: "../myracle.png"  # image show on top
 readingTime: true  # show reading time after article date
 toc: true
 comments: false
