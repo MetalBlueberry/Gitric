@@ -105,14 +105,34 @@ Myr le preguntó a Liam donde estaba su madre, pero Liam solo podía especular.
 
 - No te lo puedo decir con seguridad, pero parece que la magia ha sido prohibida. Se han puesto varios carteles de recompensas por cualquier información sobre usuarios mágicos. Pero no te preocupes, no voy a decir nada sobre ti.
 
-## Huérfano - 8 a 10
+## Huérfano - 8 a 12
 
 Myr se quedó a vivir con Liam durante un tiempo, pero apenas salía de la habitación donde dormía debido al miedo. Las pesadillas sobre la noche en la que perdió a su madre no le dejaban dormir. Pasaron varios meses hasta que Myr consiguió reunir el valor para volver a salir a la calle. Poco a poco, Myr empezó a ayudar a Liam en las tareas del hogar y poco a poco Liam se convirtió en un padre para el.
 
-Liam tenía problemas para caminar y cargar con peso, por esa razón, una de las tareas que Myr podía hacer mejor que el, era ir a comprar al mercado. Liam había sido un explorador siendo joven y había utilizado los objetos que venía su madre en sus aventuras. Dejó de hacer viajes cuando fué atacado por un oso salvaje y quedó mal herido en ambas piernas. Desde entonces, vivía humildemente de las riquezas que había acumulado y fabricando pequeños cuchillos y otras herramientas afiladas. Myr aprendió a identificar que piedras podían usarse para afilar el metal y a como dar forma a pequeñas piezas de metal. 
+Liam tenía problemas para caminar y cargar con peso, por esa razón, una de las tareas que Myr podía hacer mejor que el, era ir a comprar al mercado. Liam había sido un explorador siendo joven y había utilizado los objetos que venía su madre en sus aventuras. Dejó de hacer viajes cuando fué atacado por un oso salvaje y quedó mal herido en ambas piernas. Desde entonces, vivía humildemente de las riquezas que había acumulado y fabricando pequeños cuchillos y otras herramientas afiladas. Myr aprendió a identificar que piedras podían usarse para afilar el metal y a como dar forma a pequeñas piezas de metal.
 
+## Caza recompensas
 
+La caza de usuarios mágicos siguió adelante durante los años. Algunos habían empezado a basar su vida en buscar a estos usuarios para cobrar las recompensas ofrecidas por el imperio.
 
+Un día como otro cualquiera, Myr estaba comprando comida en el mercado cuando notó que alguien le miraba de forma extraña. Un poco alterado, se apresuró a volver a casa. Al pasar por una calle estrecha, otro hombre le cortó el paso y sin darse cuenta, estaba rodeado.
 
+- Vamos, vamos. No nos lo pongas difícil.
+- ¿Estas seguro de que este niño puede usar magia? No quiero meterme en un lio
+- No hay duda, fijate en el color azul de sus ojos. Solo los ojos de usuarios mágicos pueden tener ese aspecto.
+
+Myr dejó caer al suelo lo que había comprado y agarró fuertemente la piedra que siempre llevaba con el. Al momento, ambos asaltantes quedaron sorprendidos al ver desaparecer a Myr delante de sus ojos. Myr aprovecho la situación para esquivar a uno de los asaltantes y huir del lugar. Sin embargo, parece que la invisibilidad no estaba funcionando bien y antes de poder alejarse lo suficiente, sus asaltantes empezaron a perseguirle. Myr observo la piedra mientras corría a toda velocidad, parece que está perdiendo brillo y ya no funciona como antes. Desesperado, Myr volvió a apretarla con todas sus fuerzas y consiguió volver a activar la invisibilidad. Aprovecho el momento para cambiar de dirección y despistar a sus perseguidores.
+
+Por fin a salvo, Myr recuperaba el aliento en otro callejón mientras intentaba entender que es lo que había pasado. Parece que se había corrido la voz de que los ojos podían identificar a un usuario mágico. Myr nunca lo había pensado antes, pero es verdad que sus ojos tienen un color azul cielo y una pupila ligeramente aplanada que puede recordar a los ojos de un gato. Los ojos como los de su madre. Asustado, volvió a casa de Liam evitando mirar a los ojos a cualquier persona con la que se cruzaba.
+
+## Iniciación de monje 12 - hoy
+
+La gente del pueblo conocía a Myr y se estaba corriendo la voz de que un chico con los ojos azules vivía con Liam. Por suerte, nadie tenía pruebas de que fuera un usuario mágico o no tenían interés en cobrar la recompensa. Sin embargo, los caza recompensas estaban cada vez mas al acecho y Myr no quería causar problemas a Liam. Myr decidió irse de casa de Liam y entrar en un claustro de monjes para pasar desapercibido. Además, buscaba convertirse en una persona fuerte que pudiera defenderse a si mismo e incluso aventurarse a encontrar a su madre.
+
+Sus ojos seguían siendo un problema, ya que los monjes no iban a permitir a un usuario mágico unirse a sus lineas. Por esta razón, Myr practicó para poner los ojos en blanco. Esto le permitió unirse a un convento de monjes ciegos donde aprendió a vivir sin poder ver. Myr fingió haber perdido la vista en un accidente y los monjes le acogieron como uno mas.
+
+Myr empezó a cubrir sus ojos con una cinta al igual que el resto de monjes ciegos.
+
+> Falta extender un poco esta historia
 
 
