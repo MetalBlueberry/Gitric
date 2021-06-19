@@ -125,14 +125,19 @@ Myr dejó caer al suelo lo que había comprado y agarró fuertemente la piedra q
 
 Por fin a salvo, Myr recuperaba el aliento en otro callejón mientras intentaba entender que es lo que había pasado. Parece que se había corrido la voz de que los ojos podían identificar a un usuario mágico. Myr nunca lo había pensado antes, pero es verdad que sus ojos tienen un color azul cielo y una pupila ligeramente aplanada que puede recordar a los ojos de un gato. Los ojos como los de su madre. Asustado, volvió a casa de Liam evitando mirar a los ojos a cualquier persona con la que se cruzaba.
 
-## Iniciación de monje 12 - hoy
+## Carrera de monje de 12 a 24 años
 
 La gente del pueblo conocía a Myr y se estaba corriendo la voz de que un chico con los ojos azules vivía con Liam. Por suerte, nadie tenía pruebas de que fuera un usuario mágico o no tenían interés en cobrar la recompensa. Sin embargo, los caza recompensas estaban cada vez mas al acecho y Myr no quería causar problemas a Liam. Myr decidió irse de casa de Liam y entrar en un claustro de monjes para pasar desapercibido. Además, buscaba convertirse en una persona fuerte que pudiera defenderse a si mismo e incluso aventurarse a encontrar a su madre.
 
-Sus ojos seguían siendo un problema, ya que los monjes no iban a permitir a un usuario mágico unirse a sus lineas. Por esta razón, Myr practicó para poner los ojos en blanco. Esto le permitió unirse a un convento de monjes ciegos donde aprendió a vivir sin poder ver. Myr fingió haber perdido la vista en un accidente y los monjes le acogieron como uno mas.
+Durante su estancia en el convento, Myr conoció al maestro "X", el cuál era conocido por sus cuestionables técnicas de entrenamiento. Myr se volvió muy fuerte siguiendo sus enseñanzas y consiguió dominar las artes básicas de los monjes. Myr siempre ha sido una persona inocente y con dificultades para saber cuando una persona está actuando de forma malvada. Normalmente tiene a justificar las acciones malvadas de forma que pueda aceptar el comportamiento. En el caso del maestro iX>, Myr justificaba sus malas prácticas con la premisa de que lo hacía para hacer mas fuertes a sus alumnos, cuando realmente lo hacía para verlos sufrir.
 
-Myr empezó a cubrir sus ojos con una cinta al igual que el resto de monjes ciegos.
+"X" fué expulsado del convento cuando mató por accidente a un alumno durante un entrenamiento. A Myr le fué asignado otro maestro, pero núnca llego a conectar de la misma forma. Cuando el convento se disolvió, Myr fué en búsqueda de su antiguo maestro, donde le pidió seguir con el entrenamiento. "X" aprovecho la situación y le encomendó misiones de ética cuestionable a Myr y le daba una pequeña parte del dinero que obtenía para evitar que muriera de hambre. "X" necesitaba que Myr estuviera en plena forma. Myr siendo tan inocente, se inventaba razones para justificar las acciones que su maestro le encargaba.
 
-> Falta extender un poco esta historia
+## Asalto de la linea de paz
 
+Los orcos atravesaron la linea de paz y empezaron a destruir aldeas. La notícia llegó a los oídos de Myr y decidió volver a su aldea natal para ayudar a Liam, ya que en caso de que la aldea fuera atacada, Liam no tenía recursos para huir por si mismo.
 
+- llega tarde y encuentra la aldea arrasada.
+- se promete a si mismo vengar la muerte de Liam.
+- Encuentra a un grupo de orcos, los ataca por sorpresa y los extermina.
+- gana confianza en si mismo <3
