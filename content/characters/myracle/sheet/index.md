@@ -11,3 +11,8 @@ single: false  # display as a single page, hide navigation on bottom, like as ab
 license: ""  # CC License
 draft: false
 ---
+
+Descarga:
+
+- [PDF](Hoja-de-Personaje%20-Myracle.pdf)
+- [HTML](Myracle.html)
