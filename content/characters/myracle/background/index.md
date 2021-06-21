@@ -131,7 +131,7 @@ La gente del pueblo conocía a Myr y se estaba corriendo la voz de que un chico 
 
 Durante su estancia en el convento, Myr conoció al maestro Xanthras, el cuál era conocido por sus cuestionables técnicas de entrenamiento. Myr se volvió muy fuerte siguiendo sus enseñanzas y consiguió dominar las artes básicas de los monjes. Myr siempre ha sido una persona inocente y con dificultades para saber cuando una persona está actuando de forma malvada. Normalmente tiene a justificar las acciones malvadas de forma que pueda aceptar el comportamiento. En el caso del maestro Xanthras, Myr justificaba sus malas prácticas con la premisa de que lo hacía para hacer mas fuertes a sus alumnos, cuando realmente lo hacía para verlos sufrir.
 
-Xanthras fué expulsado del convento cuando mató por accidente a un alumno durante un entrenamiento. A Myr le fué asignado otro maestro, pero núnca llego a conectar de la misma forma. Cuando el convento se disolvió, Myr fué en búsqueda de su antiguo maestro, donde le pidió seguir con el entrenamiento. Xanthras aprovecho la situación y le encomendó misiones de ética cuestionable a Myr y le daba unahttps://metalblueberry.github.io/Gitric/characters/myracle/background/ pequeña parte del dinero que obtenía para evitar que muriera de hambre. Xanthras necesitaba que Myr estuviera en plena forma. Myr siendo tan inocente, se inventaba razones para justificar las acciones que su maestro le encargaba.
+Xanthras fué expulsado del convento cuando mató por accidente a un alumno durante un entrenamiento. A Myr le fué asignado otro maestro, pero núnca llego a conectar de la misma forma. Cuando el convento se disolvió, Myr fué en búsqueda de su antiguo maestro, donde le pidió seguir con el entrenamiento. Xanthras aprovecho la situación y le encomendó misiones de ética cuestionable a Myr y le daba una pequeña parte del dinero que obtenía para evitar que muriera de hambre. Xanthras necesitaba que Myr estuviera en plena forma. Myr siendo tan inocente, se inventaba razones para justificar las acciones que su maestro le encargaba.
 
 ## Asalto de la linea de paz
 
@@ -150,5 +150,4 @@ Myr cerro miro a otro lado mientras no podía retener sus lágrimas.
 - Ven conmigo, te invito a un trago para que ahogues tus penas.
 
 Myr siguió a su maestro hasta una taberna donde Xanthras puso todo un barril de cerveza a su disposición. Myr bebió de su jarra mientras miraba la piedra que le dejó su madre. "Liam ha muerto, Mi madre ha muerto, Mi convento se ha disuelto... No me queda nada. ¿Que clase de dios puede permitir esto?" Myr se fijó en las heridas que tenía y se vendó los nudillos con una tela. Xanthras estaba hablando con otra gente y Myr aprovechó la situación para ir a su habitación para poder descansar.
-
 
