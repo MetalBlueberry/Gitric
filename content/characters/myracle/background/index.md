@@ -141,7 +141,7 @@ Los orcos atravesaron la linea de paz y empezaron a destruir aldeas. La notícia
 - Se promete a si mismo vengar la muerte de Liam.
 - Encuentra a un grupo de orcos, los ataca por sorpresa y los extermina.
 
-Myr regresa a la Gitric al anochecer con los nudillos ensangrentados, el bastón mellado y las ropas cubiertas de sangre de Orco. Al acercarse al lugar donde vive actualmente, encuentra a Sandras esperando.
+Myr regresa a la Gitric al anochecer con los nudillos ensangrentados, el bastón mellado y las ropas cubiertas de sangre de Orco. Al acercarse a la posada donde alquila una habitación, encuentra a Sandras esperando.
 
 - Te dije que no fueras. Era demasiado tarde
 
