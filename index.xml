@@ -4,7 +4,42 @@
 &lt;/li>
 &lt;li>&lt;a href="Myracle.html">HTML&lt;/a>
 &lt;/li>
-&lt;/ul></description></item><item><title>Trasfondo de Myracle</title><link>https://metalblueberry.github.io/Gitric/characters/myracle/background/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/Gitric/characters/myracle/background/</guid><description>&lt;p>La vida de Myracle&lt;/p>
+&lt;/ul>
+&lt;pre>&lt;code class="language-yml">Myr:
+Vida: 14
+Ki: 2
+Dinero:
+po: 39
+pp: 92
+Inventario:
+- Cinturón:
+- Piedra de invisibilidad agotada
+- Bastón de madera
+- Bolsa:
+- 10 dardos
+- 2 raciones
+- Cuchillo pequeño
+- Símbolo sagrado
+Casa:
+- 2 x Trampas ratones
+- Kit de cocina
+- Cama
+- Baúl:
+- Equipo explorador:
+- una mochila,
+- un saco de dormir
+- un Equipo de cocina
+- un yesquero
+- 10 antorchas,
+- raciones para 10 días
+- un odre
+- 50 pies de cuerda de cáñamo atada al lado de la misma
+- 2 Ropa limpia
+- Ropa manchada de sangre
+- Escritorio:
+- Papel + tinta + pluma
+- Velas
+&lt;/code>&lt;/pre></description></item><item><title>Trasfondo de Myracle</title><link>https://metalblueberry.github.io/Gitric/characters/myracle/background/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/Gitric/characters/myracle/background/</guid><description>&lt;p>La vida de Myracle&lt;/p>
 &lt;h2 id="infancia---de-0-a-8-años">Infancia - de 0 a 8 años&lt;/h2>
 &lt;p>Myracle es hijo de una mujer llamada Enya Eadrom. Ambos vivían en una Aldea al sur del continente donde su madre se ganaba la vida vendiendo artilugios mágicos. Enya tiene el poder de &lt;strong>controlar la luz&lt;/strong>, lo que le permite realizar encantamientos muy útiles para viajeros. Los mas comúnes siendo &lt;strong>dar brillo a objetos&lt;/strong> que son capaces de dar emitir luz durante largos periodos de tiempo. También es capaz de fabricar lentes &lt;strong>curvan la luz&lt;/strong> que pueden ser utilizadas para iniciar fuegos, fabricar lentes de visión o telescopios. Enya vende sus objetos en una tienda popular en el centro de la aldea y mucha gente viene de lugares cercanos para comprar diversos utensilios. Gracias a esto, se pueden permitir una vida sin preocupaciones por el dinero.&lt;/p>
 &lt;p>Enya cuidaba de Myracle mientras atendía a sus clientes. Sus encantamientos eran muy útiles para hacer juguetes con los que Myr se distraía durante horas. Enya tenía planes de enseñar a Myr el proceso de creación de objetos mágicos, pero todavía era muy joven para aprender.&lt;/p>
