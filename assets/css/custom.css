@@ -11,3 +11,11 @@
   float: right;
   margin: 0.7rem;
 }
+
+strong {
+  color: rgb(204, 0, 0);
+}
+
+.article.markdown-body {
+  background-image: none;
+}
