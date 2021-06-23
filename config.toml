@@ -16,7 +16,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [markup.highlight]
-codeFences = false
+codeFences = true
 noClasses = false
 
 [markup.goldmark.renderer]
